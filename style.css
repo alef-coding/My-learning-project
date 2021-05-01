@@ -18,7 +18,7 @@ h1 {
   border: 3px solid;
   border-color: #4a47a3;
   border-radius: 0.25rem;
-  margin-bottom: 50px;
+  margin-bottom: 80px;
   padding: 25px 30px;
   text-align: center;
 }
@@ -43,7 +43,8 @@ h1 {
 
 .current_weather {
   display: inline;
-  margin: 40px;
+  margin: 40px 40px;
+  padding: 40px 40px;
 }
 
 .card {
